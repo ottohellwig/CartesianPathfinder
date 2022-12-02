@@ -6,9 +6,7 @@ Coordinate Distance Calculator is an interactive notebook which calculates the d
 * Determines the **best path** based on the shortest overrall distance required
 * Can **graphically represent** optimised path
 
-<p align="center">
-  <img width="1365" height="271" src="https://user-images.githubusercontent.com/105997582/203210832-72f43a75-4df5-4334-80d6-52df4bd2bacb.png">
-</p>
+
 
 ## Guide ##
 
