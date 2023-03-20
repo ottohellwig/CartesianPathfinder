@@ -54,4 +54,4 @@ If values are null the function will not produce a result. Do not alter the func
 
 * Move from a Jupyter-based interactive notebook to a designed user interface
 * Integrate Dijkstra's algorithm and A*  Search algorithm for the best path function
-* Build a front-end platform for user input
+* Build a front-end platform for user input 
