@@ -1,12 +1,26 @@
-# Coordinate-Distance-Calculator #
-Coordinate Distance Calculator is an interactive notebook which calculates the distance and optimal path from a set of Cartesian coordinates. The Python functions enable users to find the closest point from the starting coordinate, calculate the distance between multiple coordinates, and determine the best path. 
+<a name="readme-top"></a>
+
+<h3 align="center">Coordinate Distance Calculator</h3>
+
+  <p align="center">
+    Simple Python functions to calculate the distance between coordinates, find the nearest node, and find the best path.
+    <br />
+    <a href=""><strong>Explore the docs »</strong></a>
+  </p>
+</div>
+
+## About The Project
+
+Coordinate Distance Calculator is an interactive notebook which calculates the distance and optimal path from a set of Cartesian coordinates. The Python functions enable users to find the closest point from the starting coordinate, calculate the distance between multiple coordinates, and determine the best path.
 
 * Simple and **modular Python code** which can be repurposed
 * Can calculate distance between **multiple Cartesian coordinates**
 * Determines the **best path** based on the shortest overrall distance required
 * Can **graphically represent** optimised path
 
-
+### Built With
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ## Guide ##
 
@@ -55,3 +69,5 @@ If values are null the function will not produce a result. Do not alter the func
 * Move from a Jupyter-based interactive notebook to a designed user interface
 * Integrate Dijkstra's algorithm and A*  Search algorithm for the best path function
 * Build a front-end platform for user input 
+
+<p align="right">(<a href="#readme-top">Back to top</a>)</p>
