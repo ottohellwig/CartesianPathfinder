@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 
-<h3 align="center">Coordinate Distance Calculator</h3>
+<h3 align="center">Cartesian Pathfinder</h3>
 
   <p align="center">
     Simple Python functions to calculate the distance between coordinates, find the nearest node, and find the best path.
