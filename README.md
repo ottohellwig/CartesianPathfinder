@@ -18,10 +18,6 @@ Coordinate Distance Calculator is an interactive notebook which calculates the d
 * Determines the **best path** based on the shortest overrall distance required
 * Can **graphically represent** optimised path
 
-### Built With
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-
 ## Guide ##
 
 To use the Coordinate Distance Calculator, input your desired values into the **distance**, **find_closest**, **path_distance** and or **best_path** function. 
