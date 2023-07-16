@@ -1,14 +1,4 @@
 <a name="readme-top"></a>
-
-<h3 align="center">Cartesian Pathfinder</h3>
-
-  <p align="center">
-    Simple Python functions to calculate the distance between coordinates, find the nearest node, and find the best path.
-    <br />
-    <a href=""><strong>Explore the docs »</strong></a>
-  </p>
-</div>
-
 ## About The Project
 
 Coordinate Distance Calculator is an interactive notebook which calculates the distance and optimal path from a set of Cartesian coordinates. The Python functions enable users to find the closest point from the starting coordinate, calculate the distance between multiple coordinates, and determine the best path.
